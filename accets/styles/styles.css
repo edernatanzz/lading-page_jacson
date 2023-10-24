@@ -1,0 +1,110 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    padding: 20px 0; /* Adicionado espaçamento superior e inferior */
+}
+
+/* Estilos para os botões */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+/* Estilos para a seção de IMC */
+#calculo-imc {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+
+
+/* Estilos para os links de navegação */
+.navbar-light .navbar-nav .nav-link {
+    color: #2C3E50;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #2C3E50;
+}
+
+/* Estilos para a barra de navegação */
+.navbar {
+    background-color: #2C3E50;
+}
+
+
+
+.navbar-brand img {
+    width: 50px; /* Largura da imagem do logotipo */
+    height: auto; /* Altura automática para manter a proporção */
+    margin-right: 10px; /* Espaçamento à direita da imagem */
+}
+
+
+.navbar a {
+    color: #fff;
+}
+
+.navbar-toggler-icon {
+    background-color: #fff;
+}
+
+/* Estilos para a seção de Serviços */
+#servicos {
+    padding: 50px 0;
+}
+
+.card {
+    border: none;
+}
+
+/* Estilos para a seção de Contato */
+#contato {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px; /* Adicionado espaçamento para melhor legibilidade */
+}
+
+
+
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 7.5rem;
+    background-color: #2C3E50;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Estilo para o texto de direitos autorais */
+footer p {
+    font-size: 14px;
+}
+
+/* Estilos para os ícones de mídia social */
+.social-icons {
+    margin-top: 15px;
+}
+
+.social-icons a {
+    color: white;
+    font-size: 20px;
+    margin: 0 10px;
+}
+
+.social-icons a:hover {
+    color: greenyellow;
+}
