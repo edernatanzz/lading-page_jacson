@@ -1,10 +1,7 @@
 /* Estilos gerais */
 
 .main-bg{
-    background: url('/accets/imgs/v882-kul-66.jpg');
-    background-size: cover; /* Ajusta o tamanho da imagem para cobrir todo o elemento */
-    background-position: center; /* Define a posição da imagem no centro do elemento */
-    background-repeat: no-repeat;
+    background-color: black;
 }
 h2{
     color: white
