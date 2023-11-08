@@ -6,8 +6,8 @@ body {
 
 
 /* Estilos para o cabeçalho */
-header {
-    background-color: #007BFF;
+.header-color{
+    background-color:rgb(1, 48, 1);
     color: white;
     text-align: center;
     padding: 20px 0; /* Adicionado espaçamento superior e inferior */
@@ -21,7 +21,7 @@ header {
 
 /* Estilos para a seção de IMC */
 #calculo-imc {
-    background-color: #f8f9fa;
+    
     padding: 20px;
     border: 1px solid #ddd;
 }
@@ -39,7 +39,7 @@ header {
 
 /* Estilos para a barra de navegação */
 .navbar {
-    background-color: #2C3E50;
+    background-color: white;
 }
 
 
@@ -70,7 +70,7 @@ header {
 
 /* Estilos para a seção de Contato */
 #contato {
-    background-color: #007bff;
+   
     color: #fff;
     padding: 20px; /* Adicionado espaçamento para melhor legibilidade */
 }
@@ -82,7 +82,7 @@ footer {
     
     bottom: 0;
     width: 100%;
-    background-color: #2C3E50;
+    background-color: transparent;
     color: white;
     text-align: center;
     padding: 20px 0; /* Espaçamento superior e inferior aumentado para melhor legibilidade */
